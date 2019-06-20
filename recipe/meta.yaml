@@ -21,7 +21,7 @@ requirements:
     - jupyter
   run:
     - python
-    - itk
+    - itk >=5.0.0
     - ipydatawidgets >=3.2.0
     - ipywidgets >=7.4.0
     - ipympl
